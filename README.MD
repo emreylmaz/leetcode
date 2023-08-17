@@ -3,6 +3,7 @@
 ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
 
 This repository contains my solutions to various LeetCode problems. I'm open to improvements and suggestions.
+You can find my LeetCode profile [here](https://leetcode.com/emreyilmaz/).
 
 ## About
 
